@@ -1,0 +1,45 @@
+body
+{
+  background-image: url("https://cdn.givingcompass.org/wp-content/uploads/2020/01/07112031/Background-Check-Backlog-Exacerbates-Teacher-Shortage1.jpg"); 
+  background-size: 1000px; 
+  font-family: Times; 
+}
+
+.menu {
+  font-family: Verdana; 
+  background: #8B8386;  
+}
+
+.menu li {
+  list-style: none; 
+}
+
+.menu ul {
+  display: flex;
+  justify-content: space-evenly; 
+}
+a {
+  color: #A52A2A; 
+  text-decoration: none;  
+}
+
+a:hover {
+  text-decoration: underline;  
+}
+
+.site-title {
+ color: #008B45; 
+ text-align: center;
+}
+
+.site-subtitle {
+  color: #008B45; 
+  text-align: center; 
+}
+
+.site-subtitle-2 {
+  color: #008B45; 
+  text-align: center;
+  text-decoration: line-through;
+  font-size: x-small; 
+}
